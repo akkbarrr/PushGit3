@@ -1,0 +1,71 @@
+body{
+    font: 15px/1.0 sans-serif;
+    padding: 0;
+    margin:0;
+    background-color: #ffffff;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.button_1{
+    height: 38px;
+    background: #808080;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #f8f8f8;
+}
+.dark{
+    padding: 15px;
+    background: #35424a;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+header{
+    background: #3d3b3b;
+    color: #483ecc;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #3c8bf3 3px solid;
+}
+header a{
+    color: #f8f8f8;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+header ul{
+    margin: 0;
+    padding: 0;
+}
+
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+header #branding{
+    float: left;
+}
+header #branding h1{
+    margin: 0;
+}
+header nav{
+    float: right;
+}
+/* bagian yang bermasalah */
+header .highlight, header .current a{
+    color: #ffffff;
+    font-weight: bold;
+}
+header a:hover{
+    color: #ffffff;
+    font-weight: bold;
+}
