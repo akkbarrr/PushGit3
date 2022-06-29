@@ -1,3 +1,1 @@
-# PushGit
-this project made by : Rayhan Rizky Akbar
-INSTAGRAM : @waypmay._
+what y'all doin in here lol, it's just my old repo
