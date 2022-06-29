@@ -1,3 +1,1 @@
-# PushGit3
-This Project Made By : Rayhan Rizky Akbar
-From : IDN Boarding School
+what y'all doin in here lol?, it's just my old repo
